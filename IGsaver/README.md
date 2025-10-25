@@ -1,104 +1,263 @@
 <div align="center">
 
-# 📸 IGsaver
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=E1306C&center=true&vCenter=true&width=940&lines=📸+IGsaver+-+Own+Your+Instagram+Memories" alt="IGsaver" />
 
-### Your Personal Instagram Backup Solution
+<h3>
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="Camera" width="25" height="25" />
+  Your Personal Instagram Backup Solution
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Floppy%20Disk.png" alt="Save" width="25" height="25" />
+</h3>
 
-*Never lose your memories again. Backup your Instagram highlights & stories with one command.*
+<p align="center">
+  <b>Never lose your memories again.</b><br>
+  Backup your Instagram highlights & stories with one simple command.<br>
+  Fast • Secure • Open Source
+</p>
 
-[![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![Code style: Clean Code](https://img.shields.io/badge/code%20style-clean-brightgreen.svg)](https://github.com/zedr/clean-code-python)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ind4skylivey/IG-saver-tools/pulls)
-[![GitHub Stars](https://img.shields.io/github/stars/ind4skylivey/IG-saver-tools?style=social)](https://github.com/ind4skylivey/IG-saver-tools)
+<p align="center">
+  <a href="https://www.python.org/downloads/">
+    <img src="https://img.shields.io/badge/Python-3.11+-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Version" />
+  </a>
+  <a href="LICENSE">
+    <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="License" />
+  </a>
+  <a href="https://github.com/il1v3y/IG-saver-tools/stargazers">
+    <img src="https://img.shields.io/github/stars/il1v3y/IG-saver-tools?style=for-the-badge&logo=github&color=E1306C" alt="Stars" />
+  </a>
+</p>
 
-[Features](#-features) • [Quick Start](#-quick-start) • [Demo](#-demo) • [Documentation](#-documentation) • [Roadmap](#-roadmap)
+<p align="center">
+  <a href="https://github.com/il1v3y/IG-saver-tools/fork">
+    <img src="https://img.shields.io/github/forks/il1v3y/IG-saver-tools?style=for-the-badge&logo=github&color=5865F2" alt="Forks" />
+  </a>
+  <a href="https://github.com/il1v3y/IG-saver-tools/issues">
+    <img src="https://img.shields.io/github/issues/il1v3y/IG-saver-tools?style=for-the-badge&logo=github&color=green" alt="Issues" />
+  </a>
+  <a href="https://github.com/il1v3y/IG-saver-tools/pulls">
+    <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge&logo=github" alt="PRs Welcome" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="#-features">Features</a> •
+  <a href="#-quick-start">Quick Start</a> •
+  <a href="#-demo">Demo</a> •
+  <a href="#-documentation">Documentation</a> •
+  <a href="#️-roadmap">Roadmap</a> •
+  <a href="#-contributing">Contributing</a>
+</p>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
 </div>
 
----
+<br>
+
+<div align="center">
 
 ## 🎯 Why IGsaver?
 
-Instagram doesn't make it easy to backup your precious memories. Stories disappear in 24 hours, and even highlights can be lost if something happens to your account. **IGsaver gives you full control.**
-
-```bash
-./run.sh              # That's it! All your highlights backed up locally.
-```
-
-### The Problem
-- 📉 Instagram's official data export takes 48+ hours
-- ⏰ Stories disappear after 24 hours forever
-- 🔒 Your memories are locked in Instagram's servers
-- 💔 Account issues? Say goodbye to your content
-
-### The Solution
-**IGsaver**: Fast, local, secure backup of your Instagram content with a single command.
-
-## ✨ Features
-
 <table>
 <tr>
-<td width="50%">
+<td width="50%" align="center">
 
-### 🚀 Smart & Fast
-- **Incremental Backup**: Only downloads new content (90% faster!)
-- **Progress Tracking**: Real-time progress bars
-- **Batch Download**: Get all highlights at once
-- **Stories Support**: Capture before 24h expiration
+### ❌ The Problem
 
-</td>
-<td width="50%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Anxious%20Face%20with%20Sweat.png" alt="Problem" width="60" />
 
-### 🔐 Safe & Secure
-- **Zero Password Storage**: Uses session tokens
-- **2FA Support**: Works with secured accounts
-- **Local Storage**: Your data stays on YOUR device
-- **Open Source**: Transparent, auditable code
+<br><br>
+
+📉 **48+ hours** waiting for Instagram export<br>
+⏰ Stories **disappear in 24h** forever<br>
+🔒 Memories **locked** in Instagram servers<br>
+💔 Account issues = **Lost content**<br>
 
 </td>
-</tr>
-<tr>
-<td width="50%">
+<td width="50%" align="center">
 
-### ⚙️ Powerful & Flexible
-- **Advanced Filters**: Date range, type, size
-- **YAML Configuration**: Customize everything
-- **CLI Expert Mode**: 15+ command options
-- **Rich Reports**: Detailed statistics
+### ✅ The Solution
 
-</td>
-<td width="50%">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Star-Struck.png" alt="Solution" width="60" />
 
-### 🎯 Coming Soon
-- **🖥️ Desktop App**: GUI for Windows, Mac, Linux
-- **📅 Scheduled Backups**: Automatic daily sync
-- **☁️ Cloud Sync**: Optional backup to cloud
-- **📊 Analytics Dashboard**: Visualize your content
+<br><br>
+
+⚡ **Instant** backup, any time<br>
+🎯 Capture stories **before expiration**<br>
+💾 Store **locally** on YOUR device<br>
+🛡️ **Full control** of your data<br>
 
 </td>
 </tr>
 </table>
 
-## 📦 Demo
+</div>
 
-> **Note**: Screenshots and demo GIF coming soon! The tool is fully functional.
+<div align="center">
 
-**What you get:**
-
+```bash
+./run.sh              # That's it! All your highlights backed up locally in seconds ⚡
 ```
+
+</div>
+
+<br>
+
+<div align="center">
+
+## ✨ Features
+
+<img src="https://user-images.githubusercontent.com/74038190/212284115-f47cd8ff-2ffb-4b04-b5bf-4d1c14c0247f.gif" width="900">
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" alt="Rocket" width="50" />
+
+### 🚀 Smart & Fast
+
+</div>
+
+```yaml
+Performance:
+  ⚡ Incremental Backup: Skip existing files
+  📊 90% faster on subsequent runs
+  🎯 Batch Download: All at once
+  ⏱️ Stories: Before 24h expiration
+```
+
+<div align="center">
+
+![Speed](https://img.shields.io/badge/Speed-Lightning_Fast-success?style=flat-square)
+![Efficient](https://img.shields.io/badge/Bandwidth-Optimized-blue?style=flat-square)
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Locked.png" alt="Secure" width="50" />
+
+### 🔐 Safe & Secure
+
+</div>
+
+```yaml
+Security:
+  🔒 Zero password storage
+  🛡️ 2FA Support built-in
+  💾 100% Local storage
+  📖 Open Source code
+```
+
+<div align="center">
+
+![Privacy](https://img.shields.io/badge/Privacy-First-red?style=flat-square)
+![Encrypted](https://img.shields.io/badge/Sessions-Encrypted-orange?style=flat-square)
+
+</div>
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Gear.png" alt="Config" width="50" />
+
+### ⚙️ Powerful & Flexible
+
+</div>
+
+```yaml
+Customization:
+  📝 YAML Configuration files
+  🔍 Advanced Filters (date/type/size)
+  💻 CLI with 15+ options
+  📈 Detailed reports & stats
+```
+
+<div align="center">
+
+![Flexible](https://img.shields.io/badge/Config-Flexible-purple?style=flat-square)
+![Professional](https://img.shields.io/badge/CLI-Professional-blueviolet?style=flat-square)
+
+</div>
+
+</td>
+<td width="50%" valign="top">
+
+<div align="center">
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Glowing%20Star.png" alt="Future" width="50" />
+
+### 🎯 Coming Soon
+
+</div>
+
+```yaml
+v2.0.0 Roadmap:
+  🖥️ Desktop App (Win/Mac/Linux)
+  📅 Scheduled Auto-backups
+  ☁️ Optional Cloud Sync
+  📊 Analytics Dashboard
+```
+
+<div align="center">
+
+![Status](https://img.shields.io/badge/Development-Active-brightgreen?style=flat-square)
+![Roadmap](https://img.shields.io/badge/v2.0-In_Planning-yellow?style=flat-square)
+
+</div>
+
+</td>
+</tr>
+</table>
+
+<br>
+
+<div align="center">
+
+## 📦 Demo & Output
+
+<img src="https://user-images.githubusercontent.com/74038190/212284136-03988914-d899-44b4-b1d9-4eeccf656e44.gif" width="900">
+
+</div>
+
+> **Note**: Live screenshots and demo GIF coming soon! The tool is fully functional and tested.
+
+<div align="center">
+
+### 📂 What You Get
+
+</div>
+
+```bash
 📁 backups/
-└── your_username/
-    └── highlights/
-        ├── Travel_2024/
-        │   ├── 2024-01-20_01-56-19_UTC.mp4
-        │   ├── 2024-02-05_13-27-04_UTC.mp4
-        │   └── metadata files...
-        ├── Family_Moments/
-        └── Best_Memories/
+└── 📱 your_username/
+    ├── 📸 highlights/
+    │   ├── 🌍 Travel_2024/
+    │   │   ├── 🎬 2024-01-20_01-56-19_UTC.mp4   (15.2 MB)
+    │   │   ├── 🎬 2024-02-05_13-27-04_UTC.mp4   (23.8 MB)
+    │   │   ├── 📷 2024-03-10_08-15-30_UTC.jpg   (2.1 MB)
+    │   │   └── 📝 metadata.json
+    │   ├── ❤️ Family_Moments/
+    │   │   └── 💫 25 items backed up
+    │   └── ⭐ Best_Memories/
+    │       └── 💫 18 items backed up
+    └── 🎪 stories/ (if --stories flag used)
+        └── 💫 Active stories (before 24h expiration)
 ```
 
-**Example output:**
+<div align="center">
+
+### 🖥️ Example Terminal Output
+
+</div>
 
 ```bash
 $ ./run.sh
@@ -346,12 +505,48 @@ Built with:
 
 ---
 
+<br>
+
 <div align="center">
 
-**Made with ❤️ for Instagram users who want to own their memories**
+<img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-[Report Bug](https://github.com/ind4skylivey/IG-saver-tools/issues) • [Request Feature](https://github.com/ind4skylivey/IG-saver-tools/issues) • [Discussions](https://github.com/ind4skylivey/IG-saver-tools/discussions)
+### Made with ❤️ by [@il1v3y](https://github.com/il1v3y)
 
-⭐ **Star us on GitHub** — it motivates us to keep improving!
+**For Instagram users who want to own their memories**
+
+<br>
+
+<a href="https://github.com/il1v3y/IG-saver-tools/issues">
+  <img src="https://img.shields.io/badge/Report%20Bug-E1306C?style=for-the-badge&logo=github&logoColor=white" alt="Report Bug"/>
+</a>
+<a href="https://github.com/il1v3y/IG-saver-tools/issues">
+  <img src="https://img.shields.io/badge/Request%20Feature-5865F2?style=for-the-badge&logo=github&logoColor=white" alt="Request Feature"/>
+</a>
+<a href="https://github.com/il1v3y/IG-saver-tools/discussions">
+  <img src="https://img.shields.io/badge/Discussions-181717?style=for-the-badge&logo=github&logoColor=white" alt="Discussions"/>
+</a>
+
+<br><br>
+
+### ⭐ Star this repo if it helped you!
+
+<a href="https://github.com/il1v3y/IG-saver-tools/stargazers">
+  <img src="https://img.shields.io/github/stars/il1v3y/IG-saver-tools?style=social" alt="GitHub stars"/>
+</a>
+<a href="https://github.com/il1v3y/IG-saver-tools/network/members">
+  <img src="https://img.shields.io/github/forks/il1v3y/IG-saver-tools?style=social" alt="GitHub forks"/>
+</a>
+<a href="https://github.com/il1v3y">
+  <img src="https://img.shields.io/github/followers/il1v3y?style=social" alt="Follow"/>
+</a>
+
+<br><br>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+**📧 Questions? Open an [issue](https://github.com/il1v3y/IG-saver-tools/issues) or start a [discussion](https://github.com/il1v3y/IG-saver-tools/discussions)!**
+
+<sub>Built with Python 🐍 | Powered by Instaloader 📸 | Designed for Privacy 🔒</sub>
 
 </div>

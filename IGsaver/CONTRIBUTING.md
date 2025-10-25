@@ -6,7 +6,7 @@ First off, thank you for considering contributing to IGsaver! It's people like y
 
 ### 1. 🐛 Report Bugs
 
-Found a bug? Please [open an issue](https://github.com/ind4skylivey/IG-saver-tools/issues/new) with:
+Found a bug? Please [open an issue](https://github.com/il1v3y/IG-saver-tools/issues/new) with:
 
 - **Clear title** describing the issue
 - **Steps to reproduce** the bug
@@ -18,7 +18,7 @@ Found a bug? Please [open an issue](https://github.com/ind4skylivey/IG-saver-too
 
 Have an idea? We'd love to hear it!
 
-- [Open a feature request](https://github.com/ind4skylivey/IG-saver-tools/issues/new)
+- [Open a feature request](https://github.com/il1v3y/IG-saver-tools/issues/new)
 - Describe the feature and why it would be useful
 - Feel free to propose implementation ideas
 
@@ -159,7 +159,7 @@ We're planning a desktop application! If you're a designer:
 - Design icons and branding
 - Create demo videos
 
-Share your work in [Discussions](https://github.com/ind4skylivey/IG-saver-tools/discussions)!
+Share your work in [Discussions](https://github.com/il1v3y/IG-saver-tools/discussions)!
 
 ## 📋 Project Structure
 
@@ -202,8 +202,8 @@ IGsaver/
 
 ## 💬 Communication
 
-- **Questions?** Open a [Discussion](https://github.com/ind4skylivey/IG-saver-tools/discussions)
-- **Bug or feature?** Open an [Issue](https://github.com/ind4skylivey/IG-saver-tools/issues)
+- **Questions?** Open a [Discussion](https://github.com/il1v3y/IG-saver-tools/discussions)
+- **Bug or feature?** Open an [Issue](https://github.com/il1v3y/IG-saver-tools/issues)
 - **Want to chat?** Use GitHub Discussions
 
 ## 🏆 Recognition
