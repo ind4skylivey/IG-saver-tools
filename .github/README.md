@@ -1,1 +1,0 @@
-# IGsaver GitHub Configuration
