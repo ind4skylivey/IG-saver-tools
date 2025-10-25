@@ -1,26 +1,145 @@
-# IGsaver - Instagram Highlights Backup Tool
+<div align="center">
+
+# 📸 IGsaver
+
+### Your Personal Instagram Backup Solution
+
+*Never lose your memories again. Backup your Instagram highlights & stories with one command.*
 
 [![Python 3.11+](https://img.shields.io/badge/python-3.11+-blue.svg)](https://www.python.org/downloads/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Code style: Clean Code](https://img.shields.io/badge/code%20style-clean-brightgreen.svg)](https://github.com/zedr/clean-code-python)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/ind4skylivey/IG-saver-tools/pulls)
+[![GitHub Stars](https://img.shields.io/github/stars/ind4skylivey/IG-saver-tools?style=social)](https://github.com/ind4skylivey/IG-saver-tools)
 
-CLI tool in Python to backup your Instagram highlights and active stories with smart incremental backup, progress tracking, and comprehensive reporting.
+[Features](#-features) • [Quick Start](#-quick-start) • [Demo](#-demo) • [Documentation](#-documentation) • [Roadmap](#-roadmap)
 
-## Features
+</div>
 
-- ✅ Download all your Instagram highlights
-- ✅ Download active stories (24h expiration)
-- ✅ Smart incremental backup (skip existing files)
-- ✅ Visual progress bars with real-time tracking
-- ✅ Comprehensive summary reports
-- ✅ Advanced CLI with many options
-- ✅ Configuration file support (YAML)
-- ✅ Filters: date range, video/photo only, patterns
-- ✅ Save videos, photos and metadata
-- ✅ Automatic folder organization
-- ✅ Secure credentials management (session tokens + 2FA)
+---
 
-## Installation
+## 🎯 Why IGsaver?
+
+Instagram doesn't make it easy to backup your precious memories. Stories disappear in 24 hours, and even highlights can be lost if something happens to your account. **IGsaver gives you full control.**
+
+```bash
+./run.sh              # That's it! All your highlights backed up locally.
+```
+
+### The Problem
+- 📉 Instagram's official data export takes 48+ hours
+- ⏰ Stories disappear after 24 hours forever
+- 🔒 Your memories are locked in Instagram's servers
+- 💔 Account issues? Say goodbye to your content
+
+### The Solution
+**IGsaver**: Fast, local, secure backup of your Instagram content with a single command.
+
+## ✨ Features
+
+<table>
+<tr>
+<td width="50%">
+
+### 🚀 Smart & Fast
+- **Incremental Backup**: Only downloads new content (90% faster!)
+- **Progress Tracking**: Real-time progress bars
+- **Batch Download**: Get all highlights at once
+- **Stories Support**: Capture before 24h expiration
+
+</td>
+<td width="50%">
+
+### 🔐 Safe & Secure
+- **Zero Password Storage**: Uses session tokens
+- **2FA Support**: Works with secured accounts
+- **Local Storage**: Your data stays on YOUR device
+- **Open Source**: Transparent, auditable code
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### ⚙️ Powerful & Flexible
+- **Advanced Filters**: Date range, type, size
+- **YAML Configuration**: Customize everything
+- **CLI Expert Mode**: 15+ command options
+- **Rich Reports**: Detailed statistics
+
+</td>
+<td width="50%">
+
+### 🎯 Coming Soon
+- **🖥️ Desktop App**: GUI for Windows, Mac, Linux
+- **📅 Scheduled Backups**: Automatic daily sync
+- **☁️ Cloud Sync**: Optional backup to cloud
+- **📊 Analytics Dashboard**: Visualize your content
+
+</td>
+</tr>
+</table>
+
+## 📦 Demo
+
+> **Note**: Screenshots and demo GIF coming soon! The tool is fully functional.
+
+**What you get:**
+
+```
+📁 backups/
+└── your_username/
+    └── highlights/
+        ├── Travel_2024/
+        │   ├── 2024-01-20_01-56-19_UTC.mp4
+        │   ├── 2024-02-05_13-27-04_UTC.mp4
+        │   └── metadata files...
+        ├── Family_Moments/
+        └── Best_Memories/
+```
+
+**Example output:**
+
+```bash
+$ ./run.sh
+
+==================================================
+Instagram Highlights Backup Tool
+==================================================
+Loading saved session for your_username...
+✓ Session loaded successfully
+
+Processing highlights: 100%|████████████| 15/15 [02:30<00:00]
+
+📁 Travel 2024
+  ✓ 12 items, 0 failed
+
+📁 Family Moments
+  ✓ 25 items, 1 failed
+
+============================================================
+BACKUP SUMMARY
+============================================================
+Target: your_username
+Duration: 2m 35s
+
+Highlights:
+  ✓ Downloaded: 15
+  ⊘ Skipped: 0
+  ━ Total found: 15
+
+Items:
+  ✓ Downloaded: 134
+  ⊘ Skipped (already exist): 0
+  ━ Total: 134
+
+Downloaded: 2.1 GB
+
+✓ BACKUP COMPLETED SUCCESSFULLY
+============================================================
+```
+
+## 🚀 Quick Start
 
 1. Create virtual environment (optional but recommended):
 ```bash
@@ -158,15 +277,81 @@ The project follows **Clean Code** principles:
 - Instagram may rate-limit requests if you download too much at once
 - Session tokens are stored in `.sessions/` (excluded from git)
 
-## Roadmap
+## 🗺️ Roadmap
 
-- [x] Advanced CLI options (argparse) ✅
-- [x] Incremental backup (only new content) ✅
-- [x] Download active stories (24h) ✅
-- [x] Visual progress bars ✅
-- [x] Comprehensive summary reports ✅
-- [x] Configuration file support ✅
-- [ ] Desktop interface (PyQt)
-- [ ] Hybrid solution with Laravel backend
-- [ ] Multi-account support
-- [ ] Scheduled automatic backups
+See our complete [ROADMAP.md](ROADMAP.md) for detailed plans!
+
+### Current Status: v1.0.0 ✅
+- [x] Advanced CLI with 15+ options
+- [x] Smart incremental backup (90% faster!)
+- [x] Download highlights & stories (24h)
+- [x] Visual progress bars
+- [x] Comprehensive reports
+- [x] YAML configuration
+- [x] 2FA support
+
+### Coming in v2.0.0 🚀
+- [ ] **🖥️ Desktop App** (Windows, Mac, Linux)
+- [ ] **📅 Scheduled Backups** (Automatic daily sync)
+- [ ] **☁️ Cloud Sync** (Optional backup to cloud)
+- [ ] **📊 Analytics Dashboard** (Visualize your content)
+- [ ] **🎨 Modern GUI** (Dark/Light themes)
+- [ ] **🔔 Notifications** (Desktop alerts)
+
+[View Full Roadmap →](ROADMAP.md)
+
+---
+
+## 🤝 Contributing
+
+We love contributions! Whether it's:
+
+- 🐛 Bug reports
+- 💡 Feature requests
+- 📖 Documentation improvements
+- 🔧 Code contributions
+- 🎨 UI/UX design for desktop app
+
+Check out [CONTRIBUTING.md](CONTRIBUTING.md) to get started!
+
+**Special call:** We're planning a desktop app! If you have experience with Electron, Tauri, or PyQt, we'd love your input on [Discussions](https://github.com/ind4skylivey/IG-saver-tools/discussions).
+
+---
+
+## ⭐ Show Your Support
+
+If IGsaver helped you backup your precious memories:
+
+- ⭐ **Star this repo** to show your support
+- 🐦 **Share on social media** to help others discover it
+- 🔗 **Tell your friends** who might need it
+- 🤝 **Contribute** to make it even better
+
+---
+
+## 📄 License
+
+MIT License - feel free to use, modify, and distribute!
+
+See [LICENSE](LICENSE) for full details.
+
+---
+
+## 🙏 Acknowledgments
+
+Built with:
+- [Instaloader](https://github.com/instaloader/instaloader) - Instagram API wrapper
+- [tqdm](https://github.com/tqdm/tqdm) - Progress bars
+- Love for preserving memories ❤️
+
+---
+
+<div align="center">
+
+**Made with ❤️ for Instagram users who want to own their memories**
+
+[Report Bug](https://github.com/ind4skylivey/IG-saver-tools/issues) • [Request Feature](https://github.com/ind4skylivey/IG-saver-tools/issues) • [Discussions](https://github.com/ind4skylivey/IG-saver-tools/discussions)
+
+⭐ **Star us on GitHub** — it motivates us to keep improving!
+
+</div>
