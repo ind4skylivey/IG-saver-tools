@@ -21,19 +21,19 @@
   <a href="LICENSE">
     <img src="https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge&logo=opensourceinitiative&logoColor=white" alt="License" />
   </a>
-  <a href="https://github.com/il1v3y/IG-saver-tools/stargazers">
-    <img src="https://img.shields.io/github/stars/il1v3y/IG-saver-tools?style=for-the-badge&logo=github&color=E1306C" alt="Stars" />
+  <a href="https://github.com/ind4skylivey/IG-saver-tools/stargazers">
+    <img src="https://img.shields.io/github/stars/ind4skylivey/IG-saver-tools?style=for-the-badge&logo=github&color=E1306C" alt="Stars" />
   </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/il1v3y/IG-saver-tools/fork">
-    <img src="https://img.shields.io/github/forks/il1v3y/IG-saver-tools?style=for-the-badge&logo=github&color=5865F2" alt="Forks" />
+  <a href="https://github.com/ind4skylivey/IG-saver-tools/fork">
+    <img src="https://img.shields.io/github/forks/ind4skylivey/IG-saver-tools?style=for-the-badge&logo=github&color=5865F2" alt="Forks" />
   </a>
-  <a href="https://github.com/il1v3y/IG-saver-tools/issues">
-    <img src="https://img.shields.io/github/issues/il1v3y/IG-saver-tools?style=for-the-badge&logo=github&color=green" alt="Issues" />
+  <a href="https://github.com/ind4skylivey/IG-saver-tools/issues">
+    <img src="https://img.shields.io/github/issues/ind4skylivey/IG-saver-tools?style=for-the-badge&logo=github&color=green" alt="Issues" />
   </a>
-  <a href="https://github.com/il1v3y/IG-saver-tools/pulls">
+  <a href="https://github.com/ind4skylivey/IG-saver-tools/pulls">
     <img src="https://img.shields.io/badge/PRs-Welcome-brightgreen?style=for-the-badge&logo=github" alt="PRs Welcome" />
   </a>
 </p>
@@ -511,19 +511,19 @@ Built with:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 
-### Made with ❤️ by [@il1v3y](https://github.com/il1v3y)
+### Made with ❤️ by [@il1v3y](https://github.com/ind4skylivey)
 
 **For Instagram users who want to own their memories**
 
 <br>
 
-<a href="https://github.com/il1v3y/IG-saver-tools/issues">
+<a href="https://github.com/ind4skylivey/IG-saver-tools/issues">
   <img src="https://img.shields.io/badge/Report%20Bug-E1306C?style=for-the-badge&logo=github&logoColor=white" alt="Report Bug"/>
 </a>
-<a href="https://github.com/il1v3y/IG-saver-tools/issues">
+<a href="https://github.com/ind4skylivey/IG-saver-tools/issues">
   <img src="https://img.shields.io/badge/Request%20Feature-5865F2?style=for-the-badge&logo=github&logoColor=white" alt="Request Feature"/>
 </a>
-<a href="https://github.com/il1v3y/IG-saver-tools/discussions">
+<a href="https://github.com/ind4skylivey/IG-saver-tools/discussions">
   <img src="https://img.shields.io/badge/Discussions-181717?style=for-the-badge&logo=github&logoColor=white" alt="Discussions"/>
 </a>
 
@@ -531,21 +531,21 @@ Built with:
 
 ### ⭐ Star this repo if it helped you!
 
-<a href="https://github.com/il1v3y/IG-saver-tools/stargazers">
-  <img src="https://img.shields.io/github/stars/il1v3y/IG-saver-tools?style=social" alt="GitHub stars"/>
+<a href="https://github.com/ind4skylivey/IG-saver-tools/stargazers">
+  <img src="https://img.shields.io/github/stars/ind4skylivey/IG-saver-tools?style=social" alt="GitHub stars"/>
 </a>
-<a href="https://github.com/il1v3y/IG-saver-tools/network/members">
-  <img src="https://img.shields.io/github/forks/il1v3y/IG-saver-tools?style=social" alt="GitHub forks"/>
+<a href="https://github.com/ind4skylivey/IG-saver-tools/network/members">
+  <img src="https://img.shields.io/github/forks/ind4skylivey/IG-saver-tools?style=social" alt="GitHub forks"/>
 </a>
-<a href="https://github.com/il1v3y">
-  <img src="https://img.shields.io/github/followers/il1v3y?style=social" alt="Follow"/>
+<a href="https://github.com/ind4skylivey">
+  <img src="https://img.shields.io/github/followers/ind4skylivey?style=social" alt="Follow"/>
 </a>
 
 <br><br>
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-**📧 Questions? Open an [issue](https://github.com/il1v3y/IG-saver-tools/issues) or start a [discussion](https://github.com/il1v3y/IG-saver-tools/discussions)!**
+**📧 Questions? Open an [issue](https://github.com/ind4skylivey/IG-saver-tools/issues) or start a [discussion](https://github.com/ind4skylivey/IG-saver-tools/discussions)!**
 
 <sub>Built with Python 🐍 | Powered by Instaloader 📸 | Designed for Privacy 🔒</sub>
 
