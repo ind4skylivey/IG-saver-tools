@@ -41,9 +41,9 @@
 <p align="center">
   <a href="#-features">Features</a> •
   <a href="#-quick-start">Quick Start</a> •
-  <a href="#-demo">Demo</a> •
-  <a href="#-documentation">Documentation</a> •
-  <a href="#️-roadmap">Roadmap</a> •
+  <a href="#-demo--output">Demo</a> •
+  <a href="#usage">Usage</a> •
+  <a href="#-roadmap">Roadmap</a> •
   <a href="#-contributing">Contributing</a>
 </p>
 
