@@ -1,0 +1,52 @@
+# IGsaver Configuration File
+# Copy this to config.yaml and customize
+
+# Download options
+download:
+  # Content type filters
+  only_videos: false      # Download only videos (skip photos)
+  only_photos: false      # Download only photos (skip videos)
+  
+  # Date filters (format: YYYY-MM-DD or null for no limit)
+  min_date: null          # Download items from this date onwards
+  max_date: null          # Download items until this date
+  
+  # Quality settings
+  video_quality: high     # Options: high, medium, low
+  
+  # Stories options
+  stories_include_archived: false  # Include archived stories (not just highlights)
+
+# Output options
+output:
+  # Directory structure
+  use_date_folders: false    # Organize by date (YYYY/MM/DD)
+  flatten_structure: false   # Put all files in single folder
+  
+  # File naming
+  include_caption: false     # Add caption to filename
+  max_filename_length: 255   # Max characters in filename
+
+# Advanced options
+advanced:
+  # Rate limiting
+  delay_between_items: 0.5   # Seconds to wait between downloads
+  max_retries: 3             # Retry failed downloads
+  
+  # Logging
+  log_level: INFO            # DEBUG, INFO, WARNING, ERROR
+  
+  # Performance
+  concurrent_downloads: 1    # Number of parallel downloads (experimental)
+
+# Filters (applied to all downloads)
+filters:
+  # Skip items matching these patterns
+  exclude_patterns: []       # Example: ["screenshot", "repost"]
+  
+  # Only download items matching these patterns
+  include_patterns: []       # Example: ["vacation", "family"]
+  
+  # Minimum/maximum file size (in MB, null for no limit)
+  min_size_mb: null
+  max_size_mb: null
