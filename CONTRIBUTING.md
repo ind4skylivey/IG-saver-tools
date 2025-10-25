@@ -159,7 +159,7 @@ We're planning a desktop application! If you're a designer:
 - Design icons and branding
 - Create demo videos
 
-Share your work in [Discussions](https://github.com/ind4skylivey/IG-saver-tools/discussions)!
+Share your work in [Discussions](https://github.com/ind4skylivey/IG-saver-tools/issues)!
 
 ## 📋 Project Structure
 
@@ -202,9 +202,9 @@ IGsaver/
 
 ## 💬 Communication
 
-- **Questions?** Open a [Discussion](https://github.com/ind4skylivey/IG-saver-tools/discussions)
+- **Questions?** Open a [Discussion](https://github.com/ind4skylivey/IG-saver-tools/issues)
 - **Bug or feature?** Open an [Issue](https://github.com/ind4skylivey/IG-saver-tools/issues)
-- **Want to chat?** Use GitHub Discussions
+- **Want to chat?** Use GitHub Issues
 
 ## 🏆 Recognition
 

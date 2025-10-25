@@ -473,7 +473,7 @@ We love contributions! Whether it's:
 
 Check out [CONTRIBUTING.md](CONTRIBUTING.md) to get started!
 
-**Special call:** We're planning a desktop app! If you have experience with Electron, Tauri, or PyQt, we'd love your input on [Discussions](https://github.com/ind4skylivey/IG-saver-tools/discussions).
+**Special call:** We're planning a desktop app! If you have experience with Electron, Tauri, or PyQt, we'd love your input via [Issues](https://github.com/ind4skylivey/IG-saver-tools/issues).
 
 ---
 
@@ -523,8 +523,8 @@ Built with:
 <a href="https://github.com/ind4skylivey/IG-saver-tools/issues">
   <img src="https://img.shields.io/badge/Request%20Feature-5865F2?style=for-the-badge&logo=github&logoColor=white" alt="Request Feature"/>
 </a>
-<a href="https://github.com/ind4skylivey/IG-saver-tools/discussions">
-  <img src="https://img.shields.io/badge/Discussions-181717?style=for-the-badge&logo=github&logoColor=white" alt="Discussions"/>
+<a href="https://github.com/ind4skylivey/IG-saver-tools">
+  <img src="https://img.shields.io/badge/View%20Repo-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Repo"/>
 </a>
 
 <br><br>
@@ -545,7 +545,7 @@ Built with:
 
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
 
-**📧 Questions? Open an [issue](https://github.com/ind4skylivey/IG-saver-tools/issues) or start a [discussion](https://github.com/ind4skylivey/IG-saver-tools/discussions)!**
+**📧 Questions? Open an [issue](https://github.com/ind4skylivey/IG-saver-tools/issues) and we'll help you!**
 
 <sub>Built with Python 🐍 | Powered by Instaloader 📸 | Designed for Privacy 🔒</sub>
 

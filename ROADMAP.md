@@ -186,7 +186,7 @@ We're evaluating:
 | **Tauri** | Small size (~10MB), Rust security, modern | Younger ecosystem, steeper learning curve |
 | **PyQt/PySide** | Native Python, small size | Less modern UI, harder to theme |
 
-**Community Input Welcome!** Please share your preference in [Discussions](https://github.com/ind4skylivey/IG-saver-tools/discussions)
+**Community Input Welcome!** Please share your preference in [Discussions](https://github.com/ind4skylivey/IG-saver-tools/issues)
 
 ---
 
@@ -203,7 +203,7 @@ We're looking for:
    - Documentation improvements
 5. **Translators** - Help localize the app
 
-[Join the discussion](https://github.com/ind4skylivey/IG-saver-tools/discussions) or [open an issue](https://github.com/ind4skylivey/IG-saver-tools/issues)!
+[Join the discussion](https://github.com/ind4skylivey/IG-saver-tools/issues) or [open an issue](https://github.com/ind4skylivey/IG-saver-tools/issues)!
 
 ---
 
@@ -223,7 +223,7 @@ We're looking for:
 
 - ⭐ Star the repo to follow progress
 - 👀 Watch for release notifications
-- 💬 Join discussions for updates
+- 💬 Check issues for updates
 - 📧 Subscribe to releases on GitHub
 
 ---
