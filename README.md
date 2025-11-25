@@ -1,18 +1,27 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&duration=2800&pause=2000&color=E1306C&center=true&vCenter=true&width=940&lines=📸+IGsaver+-+Own+Your+Instagram+Memories" alt="IGsaver" />
+  <!-- Banner -->
+  <img 
+    src="https://github.com/user-attachments/assets/f5996922-8fbc-45f9-a7dd-479385ec5f13" 
+    alt="IG Saver Banner" 
+    width="1024"
+  />
 
-<h3>
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Camera%20with%20Flash.png" alt="Camera" width="25" height="25" />
-  Your Personal Instagram Backup Solution
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Floppy%20Disk.png" alt="Save" width="25" height="25" />
-</h3>
+  <h3>Your Personal Instagram Backup Solution</h3>
 
-<p align="center">
-  <b>Never lose your memories again.</b><br>
-  Backup your Instagram highlights & stories with one simple command.<br>
-  Fast • Secure • Open Source
-</p>
+  <img 
+    src="https://github.com/user-attachments/assets/8712aaef-9bf7-436d-a092-112d52d6bc0a" 
+    alt="IG Saver Icon" 
+    width="350"
+  />
+
+  <p>
+    <b>Never lose your memories again.</b><br>
+    Backup your Instagram highlights & stories with one simple command.<br>
+    Fast • Secure • Open Source
+  </p>
+
+</div>
 
 <p align="center">
   <a href="https://www.python.org/downloads/">
